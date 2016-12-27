@@ -1,0 +1,9 @@
+<?php
+    $fb_page_id = "##########";
+    $access_token = "###########|########################";
+    
+    $albums_per_page = 12;
+    $pics_per_page = 16;
+    
+    $show_all = FALSE;  //set to TRUE to show Timeline photos, cover photos & profile pictures
+?>
